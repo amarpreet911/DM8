@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#81309f</color>
+    <color name="colorAccent">#FF4081</color>
+<!--swtich Colors-->
+    <color name="disable_foreground_green">#b2109e</color>
+    <color name="disable_thumb_grey">#b2101a</color>
+    <color name="enable_thumb_green">#4ff613</color>
+    <!--#FF4081,,,red: #303F9F,    #3F51B5-->
+
+</resources>
