@@ -72,29 +72,16 @@
             android:layout_width="match_parent"
             android:layout_height="0px"
             android:layout_weight="1">
-
-           <!-- <Button
+            <Button
                 android:text="Button is the"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_gravity="center"
                 android:id="@+id/button1"
-                />-->
-           <!-- <android.support.v7.widget.RecyclerView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:id="@+id/my_recycler_view"
-                android:scrollbars="horizontal"/>-->
+                />
         </FrameLayout>
     </LinearLayout>
 
 </RelativeLayout>
 
 
-    <!--  <fragment
-                 android:layout_width="wrap_content"
-                 android:layout_height="match_parent"
-                 android:name="org.dmate.com.dm8.maps.DriverMap1"
-                 android:layout_gravity="center"
-                 android:id="@+id/fragment"
-                 tools:layout="@layout/fragment_fill" />-->
