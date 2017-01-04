@@ -94,11 +94,14 @@
                 android:layout_gravity="center"
                 android:id="@+id/button1"
                 />-->
-           <!-- <android.support.v7.widget.RecyclerView
-                android:layout_width="match_parent"
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="wrap_content"
                 android:layout_height="match_parent"
+                android:orientation="horizontal"
                 android:id="@+id/my_recycler_view"
-                android:scrollbars="horizontal"/>-->
+                android:scrollbars="horizontal"/>
+
         </FrameLayout>
     </LinearLayout>
 
