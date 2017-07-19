@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Created by amarpreet911 on 03/01/17.
+ * cardinfo class
  */
 
 public class CardInfo {
